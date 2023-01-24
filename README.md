@@ -42,7 +42,7 @@ pip install robotframework-jsonlibrary
 pip install jsonpath-rw
 ```
  ```
-jsonpath_rw_ext
+pip install jsonpath-rw-ext
 ```
 
 
