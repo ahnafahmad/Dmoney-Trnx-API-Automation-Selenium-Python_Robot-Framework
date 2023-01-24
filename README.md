@@ -57,7 +57,7 @@ pip install jsonpath-rw-ext
  ```
 
 
- ## Python Selenium Robot Framework Automation Report Image
+ ## Python Selenium Robot Framework API Automation Report Image
  
  
  ![image-1](https://user-images.githubusercontent.com/58990500/214291827-1d8c867c-2641-4ace-8b00-12858762526d.PNG)
