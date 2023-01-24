@@ -1,7 +1,6 @@
 # Dmoney Trnx API Automation using Selenium-Python Robot-Framework
 
-### An [API](https://api.postman.com/collections/1844288-143eb923-423f-4c91-a198-fe6e56d20e35?access_key=PMAT-01GJ3CC22Q0066PJWP3T0XHQ8G) is tested by using Robot 
-framework &Selenium Python for validation purpose. Here, the status codes, validation messages and the flow of API is tested using a Dmoney 
+### An [API](https://api.postman.com/collections/1844288-143eb923-423f-4c91-a198-fe6e56d20e35?access_key=PMAT-01GJ3CC22Q0066PJWP3T0XHQ8G) is tested by using Robot framework & Selenium Python for validation purpose. Here, the status codes, validation messages and the flow of API is tested using a Dmoney 
 API where there is Login, Creating, updating, Deleting, Searching, Depositing Money, Checking, Cash in, Cash out, Sending Money.<br><br>
 
 
